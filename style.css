@@ -1,0 +1,82 @@
+p {
+	font-size: 70px;
+	margin-left: 380px;
+}
+
+.verse{
+	margin-left: 32%;
+	font-size: 32px;
+}
+
+.marketty{
+	width: 32rem;
+}
+
+.messege {
+	color: #010101;
+	background-color: #ff0000;
+	border: 20px solid #323232;
+	font-size: 29px;
+	/*margin-left:2px*/
+	/*margin-right:520px;*/
+	margin-bottom: 30px;
+	padding: 25px;
+	margin-bottom: 4.25em;
+	display: flex;
+	justify-content: space-between;
+}
+
+.warning {
+	background-color: #ff7802;
+	color: #010101;
+	padding: 35px;
+	margin-bottom: 4.25em;
+}
+
+.fail {
+	background-color: #ffff02;
+	color: #010101;
+	padding: 35px;
+	margin-bottom: 4.25em;
+}
+
+.success {
+	background-color: #00ff00;
+	color: #010101;
+	padding: 35px;
+	margin-bottom: 4.25em;
+}
+
+.info {
+	background-color: #00fbff;
+	color: #010101;
+	padding: 35px;
+	margin-bottom: 4.25em;
+}
+
+.in {
+	background-color: #0015ff;
+	color: #010101;
+	padding: 35px;
+	margin-bottom: 4.25em;
+}
+
+.nfo {
+	background-color: #ff00ff;
+	color: #010101;
+	padding: 35px;
+	margin-bottom: 4.25em;
+}
+
+.messege:hover {
+	border: 38px solid teal;
+}
+
+.messege{
+	margin-bottom: 4.25em;
+}
+
+.images{
+	display: flex;
+	justify-content: space-around;
+}
